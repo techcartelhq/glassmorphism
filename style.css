@@ -18,7 +18,6 @@ html {
 
 body {
 	backdrop-filter: blur(150px);
-	-webkit-backdrop-filter: blur(150px);
 	min-height: 100vh;
 }
 
@@ -275,3 +274,4 @@ footer {
   }
 
 }
+
